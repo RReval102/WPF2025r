@@ -2,6 +2,7 @@
 using System;
 using System.Windows.Forms;
 
+ 
 namespace WindowsFormsApp3
 {
     // Главная форма приложения

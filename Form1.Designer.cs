@@ -1,5 +1,6 @@
 ﻿namespace WindowsFormsApp3
 {
+    
     partial class Form1
     {
         private System.ComponentModel.IContainer components = null;
